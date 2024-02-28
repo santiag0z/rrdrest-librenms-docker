@@ -1,0 +1,10 @@
+version: "3.5"
+
+services:
+  rrdrest:
+    image: michaelwadman/rrdrest:latest
+    container_name: rrdrest
+    volumes:
+      - "/opt/librenms:/opt/librenms"
+    ports:
+      - "9000:9000/tcp"
