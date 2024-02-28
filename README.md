@@ -12,5 +12,5 @@ git clone https://github.com/santiag0z/rrdrest
 ## Docker-compose up
 ```
 cd rrdrest
-sudo docker-compose up -d
+docker-compose up -d
 ```
