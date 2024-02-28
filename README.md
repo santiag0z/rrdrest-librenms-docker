@@ -3,12 +3,9 @@ Docker file to run [RRDReST](https://github.com/tbotnz/RRDReST) (simple microser
 
 [Container: michaelwadman/rrdrest](https://hub.docker.com/r/michaelwadman/rrdrest)
 
-Connect to the server command line and follow the instructions below.
-!!! note
-
-    These instructions assume you are the **root** user.  
-    If you are not, prepend `sudo` to the shell commands or temporarily become a user with root
-    privileges with `sudo -s` or `sudo -i`.
+> [!NOTE]  
+>These instructions assume you are the **root** user.  
+> If you are not, prepend `sudo` to the shell commands or temporarily become a user with root privileges with `sudo -s` or `sudo -i`.
 
 ## Download
 ```
