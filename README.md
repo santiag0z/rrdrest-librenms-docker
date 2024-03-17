@@ -8,7 +8,7 @@ Container: [michaelwadman/rrdrest](https://hub.docker.com/r/michaelwadman/rrdres
 git clone https://github.com/santiag0z/rrdrest-librenms-docker.git && cd rrdrest-librenms-docker
 ```
 
-## start container
+## Start container
 ```
 docker-compose up -d
 ```
