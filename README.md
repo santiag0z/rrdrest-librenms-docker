@@ -10,7 +10,7 @@ Container: [michaelwadman/rrdrest](https://hub.docker.com/r/michaelwadman/rrdres
 ## Download
 ```
 cd /opt
-git clone https://github.com/santiag0z/RRDReST-LibreNMS.git && cd RRDReST-LibreNMS
+git clone https://github.com/santiag0z/rrdrest-librenms-docker.git && cd rrdrest-librenms-docker
 ```
 
 ## Docker-compose up
